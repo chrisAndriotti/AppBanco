@@ -1,0 +1,13 @@
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\bin\Debug\netcoreapp3.1\AppMatriz.exe
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\bin\Debug\netcoreapp3.1\AppMatriz.deps.json
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\bin\Debug\netcoreapp3.1\AppMatriz.runtimeconfig.json
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\bin\Debug\netcoreapp3.1\AppMatriz.runtimeconfig.dev.json
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\bin\Debug\netcoreapp3.1\AppMatriz.dll
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\bin\Debug\netcoreapp3.1\AppMatriz.pdb
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\obj\Debug\netcoreapp3.1\AppMatriz.csprojAssemblyReference.cache
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\obj\Debug\netcoreapp3.1\AppMatriz.AssemblyInfoInputs.cache
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\obj\Debug\netcoreapp3.1\AppMatriz.AssemblyInfo.cs
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\obj\Debug\netcoreapp3.1\AppMatriz.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\obj\Debug\netcoreapp3.1\AppMatriz.dll
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\obj\Debug\netcoreapp3.1\AppMatriz.pdb
+C:\Users\andri\source\repos\AppMatriz\AppMatriz\obj\Debug\netcoreapp3.1\AppMatriz.genruntimeconfig.cache
