@@ -1,0 +1,13 @@
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.exe
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.deps.json
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.runtimeconfig.json
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.runtimeconfig.dev.json
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.dll
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.pdb
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.csprojAssemblyReference.cache
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.AssemblyInfoInputs.cache
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.AssemblyInfo.cs
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.dll
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.pdb
+C:\Users\andri\source\repos\AppBanco\AppBanco\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.genruntimeconfig.cache
